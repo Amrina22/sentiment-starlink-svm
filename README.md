@@ -28,6 +28,7 @@ dengan distribusi data di tiap layanan sebagai berikut:
 - **Akurasi SVM pada layanan:** 80%
 - **Akurasi SVM pada kecepatan:** 89%
 - **Akurasi SVM pada harga:** 81%
+
 ![image](https://github.com/user-attachments/assets/9499bd4d-a531-4441-a9ac-858795d61a1b)
 
 
